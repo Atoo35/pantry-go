@@ -51,7 +51,6 @@ func (p *pantry) GetPantry(baseURL, pantryID string) (*types.GetPantryResponse, 
 	if err != nil {
 		return nil, err
 	}
-
 	return &pantry, nil
 }
 
