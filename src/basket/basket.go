@@ -4,10 +4,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github/Atoo35/pantry_client/src/utils"
 	"io"
 	"net/http"
 	"strings"
+
+	"github.com/Atoo35/pantry_client/src/utils"
 )
 
 type BasketI interface {

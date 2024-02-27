@@ -1,10 +1,10 @@
 package pantry_client
 
 import (
-	"github/Atoo35/pantry_client/src/basket"
-	"github/Atoo35/pantry_client/src/constants"
-	"github/Atoo35/pantry_client/src/pantry"
-	"github/Atoo35/pantry_client/src/types"
+	"github.com/Atoo35/pantry_client/src/basket"
+	"github.com/Atoo35/pantry_client/src/constants"
+	"github.com/Atoo35/pantry_client/src/pantry"
+	"github.com/Atoo35/pantry_client/src/types"
 )
 
 type PantryClient struct {
